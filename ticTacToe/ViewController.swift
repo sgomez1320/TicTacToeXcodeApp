@@ -6,7 +6,7 @@
 //  Copyright © 2016 Sergio Gomez. All rights reserved.
 //
 /*****************************************************************************************************************************************
- this program creates a tic tac toe game which allows users to play again once the game is over.
+ this program creates a tic tac toe game which allows users to play again once the game is over or a draw has occurred.
  *************************************************************************************************************************************************/
 
 import UIKit
